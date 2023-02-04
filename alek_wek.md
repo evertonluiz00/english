@@ -32,25 +32,25 @@ the stereotype of how a model should behave.
 
 ## Answers
 
-| #  | Answer      | Result |
-|----|-------------|--------|
-| 1  |has appeard  |     |
-| 2  |hadn't been  |     |
-| 3  |was born     |     |
-| 4  |broke out    |     |
-| 5  |used to play |     |
-| 6  |got          |     |
-| 7  |have decided |     |
-| 8  |had had      |     |
-| 9  |got          |     |
-| 10 |had moved    |     |
-| 11 |joined       |     |
-| 12 |was shopping |     |
-| 13 |approached   |     |
-| 14 |decided      |     |
-| 15 |has been     |     |
-| 16 |also designs |     |
-| 17 |has written  |     |
-| 18 |is spending  |     |
-| 19 |changed      |     |
-| 20 |is changing  |     |
+| #  | Answer      | Info |
+|----|-------------|------|
+| 1  |has appeard  |      |
+| 2  |hadn't been  | No - because she is alive |
+| 3  |was born     |      |
+| 4  |broke out    |      |
+| 5  |used to play |      |
+| 6  |got          |      |
+| 7  |have decided | No - one time decision in the past |
+| 8  |had had      |      |
+| 9  |got          |      |
+| 10 |had moved    |      |
+| 11 |joined       |      |
+| 12 |was shopping |      |
+| 13 |approached   |      |
+| 14 |decided      |      |
+| 15 |has been     |      |
+| 16 |also designs |      |
+| 17 |has written  |      |
+| 18 |is spending  |      |
+| 19 |changed      |      |
+| 20 |is changing  |      |
