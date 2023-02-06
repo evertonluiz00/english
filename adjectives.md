@@ -2,7 +2,8 @@
 
 ## Exercises
 
-### Rewrite the sentences in the correct order
+### Sentence patterns
+#### Rewrite the sentences in the correct order
 
 1 - She is intelligent <br/>
 2 - He is friendly <br/>
@@ -16,9 +17,10 @@
 10 - The 18-year-old girl is beautiful <br/>
 
 
-### Match the noun forms on the left to the adjective forms on the right
+### Matching
+#### Match the noun forms on the left to the adjective forms on the right
 
-1e - beauty - beatiful <br/>
+1e - beauty - beautiful <br/>
 2i - independence - independent <br/>
 3g - importance - important <br/>
 4a - care - careful <br/>
@@ -30,14 +32,16 @@
 10h - access - accessible <br/>
 
 ### Complete the sentences
+#### Write the adjective fomr of the words in parentheses.
 
-1 - Riding a motorcycle without a helmet is `dangerous`. <br/>
-2 - If you are driving in the snow, please be `careful`. <br/>
-3 - Be have `competitive` athletes at our scholl. <br/>
-4 - That `beautiful` painting is by Pablo Picasso. <br/>
-5 - Our teacher told us that the next test is `important`. <br/>
+1 - Riding a motorcycle without a helmet is (danger) `dangerous`. <br/>
+2 - If you are driving in the snow, please be (care) `careful`. <br/>
+3 - Be have (competition) `competitive` athletes at our scholl. <br/>
+4 - That (beauty) `beautiful` painting is by Pablo Picasso. <br/>
+5 - Our teacher told us that the next test is (importnace) `important`. <br/>
 
 ### Write the feeling
+#### Write the correct feelig next to each face
 
 1 - sad <br/>
 2 - angry <br/>
@@ -46,7 +50,8 @@
 5 - happy <br/>
 6 - tired <br/>
 
-### Fill in each blank with the correct feeling above
+### Complete the sentences
+#### Fill in each blank with the correct feeling above
 
 1 - Someone stole my brother's laptop. He is `angry/sad`. <br/>
 2 - My classmate got an A on her test. She is `happy`. <br/>
@@ -54,6 +59,11 @@
 4 - My dog is at the vet. My dog is `scared`. <br/>
 5 - You only had three hours of sleep. You are `tired`. <br/>
 6 - She watched a movie where the main character died; She is `angry/sad`. <br/>
+
+### Silly Story
+#### Fill the blanks below with the words of your choice. Follow the suggestions in parentheses. The sillier, the better!
+
+I ...
 
 ## List 
 
