@@ -152,14 +152,34 @@ I ...
     + The children's eager faces
     + She sounded very eager to met you
     + They crowed around the spokeperson, eager for any news
-  - having or 
+  - having or showing desire or interest
+    + Lots of eager volunteers responded to the appeal for help
 * elated
+  - feeling or showing pleasure
+  - extremely happy and excited, often because something has happend or been achieved
+    + The prince was reported to be elated at/by the birth of his daughter
+    + He was elated by the news that he had won a full scholarship
 * enchanting
-* envious
+  - very pleasant, or charming (attractive)
+    + It's described in the guide book as "an enchanting medieval city"
+    + Belgium is an enchanting country
+* envious 
+  - wishing you had waht another person has (jealous)
+    + I'm very envious of your new coat - it's beautiful
+    + I'm envious of people that have those big boats 
 
 <br/>
 
 * fierce
+  - physically violent and frightening
+    + A fierce attack/battle
+    + Two man were shot during fierce fighting last weekend
+  - strong and powerful
+    + Fierce winds prevented the race from tacking place
+    + Firefighters had to retreat from the fierce heat
+  - showing strong feeling or energetic activity
+    + The expansion plans will face fierce opposition/resistance from environmentalists
+    + There is fierce competition to join the Special Branch
 * filthy
 * frail
 * frantic
