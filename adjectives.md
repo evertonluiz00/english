@@ -63,7 +63,29 @@
 ### Silly Story
 #### Fill the blanks below with the words of your choice. Follow the suggestions in parentheses. The sillier, the better!
 
-I ...
+I go to a strange school. My school is painted _(1. adjective, colour)_ `___` and _(2. adjective, colour)_ `___`. <br/>
+There is a _(3. adjective, size)_ `___` statue of _(4. noun, food)_ `___` on the front lawn. <br/>
+The teachers are all _(5. adjective, feeling)_ `___` _(6. noun, animals)_ `___`. Every day, we study _(7. noun, language)_ `___` and 
+we have nine _(8. adjective, difficulty)_ `___` tests. <br/>
+Im my class, the students are _(9. adjective, feeling)_ `___`. We have to sing five _(10. adjective, sound)_ `___` songs every morning. <br/>
+At lunchtime, we have to eat a _(11. adjective, colour)_ `___` _(12. noun, animal)_ `___`. <br/>
+After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language)_ `___`. <br/>
+
+### Put in Order
+#### Put the adjectives into the correct order. Don't forget to use comas.
+
+1 - a _(young / talented)_ talented, youg musician. <br/>
+2 - an _(interesting / old)_ interesting, old book. <br/>
+3 - a _(smelly / messy)_ smelly, messy apartment. <br/>
+4 - a _(Japanese / red / shiny)_ shiny, red, Japanese car. <br/>
+5 - a _(new / violent / exciting)_ exciting, violent, new video game. <br/>
+6 - an _(marble / old / Italian)_ old, Italian, marble table. <br/>
+7 - a _(black-and-white / big / beautiful)_ beautiful, big, black-and-white photograph. <br/>
+8 - a _(silk / red / new)_ new, red, silk dress. <br/>
+9 - a _(sleeping / rectangular / cheap)_ cheap, rectangular sleeping bag. <br/>
+10 - a _(metal / square / shiny / small)_ shiny, small, square, metal vase. <br/>
+
+<br/>
 
 ## List 
 
@@ -216,21 +238,57 @@ I ...
 <br/>
 
 * gleaming
+  - bright and shiny from being cleaned
+    + A gleaming kitchen
+    + Gleaming windows
 * grieving
+  - feeling very sad becuase someone has died
+    + Greaving relatives
+  - remembering people who have died
 * grumpy
+  - easily annoyed and complaining
+    + I hadn't had enough sleep and was feeling kind of grumpy
+    + A grumpy old man
+  - being in a slighty angry mood because you are annoyed at something or are feeling tired
+    + Dad is always grumpy on Monday mornings
 * grungy
+  - (of a person) feeling tired and dirty, or (of a thing) dirty
+    + He showed up for the interview wearing some grungy old sweatshirt and jeans
+    + Afetr a 15-hour flight, I felt really grungy
 
 <br/>
 
 * homely
+  - plain or ordinary, but pleasant
+    + The hotel was homely and comfortable
 * hushed
+  - quiet, or talking quietly
+    + She stood up to addrees a hushed courtroom
+    + People still speak in hushed tones (= very quietly) of the murders
 
 <br/>
 
 * ill
+  - not feeling well, or suffering from a disease
+    + I felt ill so I went home
+    + He's been ill with meningitis
+    + He is critically ill in hospital
+  - bad
+    + ill health
+    + There was no ill feeling between them
+    + Did you experience any ill effects from treatment?
 * inexpensive
+  - not costing a lot of money
+    + It's an inexpensive perfume
 * inquisitive
+  - wanting to discover as much as you can about things, sometimes in a way that annoys people
+    + An inquisitive child
+    + An inquisitive mind
+    + She could see inquisitive faces looking out from the windows next door
 * itchy
+  - having or causing an itch
+    + The sweather was itchy (= made me itch)
+    + The dust made me feel itchy all over
 
 <br/>
 
