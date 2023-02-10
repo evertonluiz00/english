@@ -181,9 +181,31 @@ I ...
     + The expansion plans will face fierce opposition/resistance from environmentalists
     + There is fierce competition to join the Special Branch
 * filthy
+  - extremely or unpleasantly dirty
+    + Wash your - they're filthy!
+    + I've never smoked - it's a filthy habit
+  - containing sexually offensive words or pictures
+    + Filthy language
+    + Filthy joke
+  - in sport, a filthy ove or action is one that is very difficult for an opponent to defend against
+    + The player broke away with puck and scored an absolutely filthy goal.
+    + The forward made a filthy move that left the defender looking like a fool
 * frail
+  - weak or unhealthy, or easily damage, broken, or harmed
+    + A frail old lady
+    + I last saw him last week and thought how old and frail he looked
+    + The country's frail economy
 * frantic
+  - almost out of control because of extreme emotion, such as worry (very worried)
+    + Where on earth have you been? We'he been frantic with worry
+  - done or arranged in a hurry and a state of excitement or confusion (hurried)
+    + Share prices have soared to a new all-time high in a day of frantic trading on the stock market
+    + Rescuers were engaged in a frantic all-night effort to reach the survivors before their supply of air ran out
 * frightened
+  - feeling fear or worry
+    + She gets frightened when he shouts at her
+    + The police officer found a frightened child in the hut
+    + Are you frightened of spiders?
 * furry
   - covered with fur
     + Small furry animals 
