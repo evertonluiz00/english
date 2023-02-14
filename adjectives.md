@@ -310,24 +310,86 @@ After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language
 <br/>
 
 * misty
+  - if the weather is misty, there is a mist in the air taht makes it difficult to see into the distance
+    + The morning will start off misty
+    + It stayed misty until late the morning 
+  - used to describe glass or a similar surface that is covered with a mist that makes it difficult to see through
+    + The windscreen is all misty
+  - slightly wet
+    + His eyes grew misty as he remmeberer her
 * muddy
+  - dirty - covered by or containing (= wet, sticky earth)
+    + Don't bring those muddy boots inside!
+    + muddy water
+  - colors - muddy colors are dark and not bright
+    + The room has been painted in muddy browns and greens
 * mushy
+  - soft and having no firm shape
+    + Cook the lentils until they are mushy
+    + The meat was mushy and tasteless
+  - too emotional
+    + I hate those mushy love stories
 
 <br/>
 
 * nasty
+  - bad or very unpleasant
+    + a nasty surprise
+    + There's a nasty smell in here
+    + He had a nasty cut above the eye
+  - unkind
+    + Don't be so nasty to your brother
+  - dangerous or violent
+    + In an emergency you could get out through a window, but it would be a nasty drop
+    + The situation could turn nasty at any moment
+  - rude or offensive
+    + She said some really nasty things about him
 * naughty
+  - when children are naughty, or their behaviour is naughty, they behave badly or do not do what they are told to do
+    + Now that's naughty - don't throw food on the floor!
+    + Our boss treats us all like naughty children
+  - involving or suggestion sex (informal humorous)
+    + The film was shown on the television but they cut out all the naughty scenes
+    + He always buys her naughty underwear for her birthday
 * nutty
+  - containing, tasting of, or similar to nuts
+    + The humble soya bean is a highly nutritious legume with a nutty texture
+  - silly or strange (informal)
+    + She's got some nutty idea about setting up a school for cats
+  - very foolish, or not practical
+    + It sounds nutty, but she can make it work
 
 <br/>
 
 * obnoxious
+  - very unpleasant or rude
+    + Some of his colleagues say that he's loud and obnoxious
+    + When she's in a bad mood she's obnoxious to everyone
+    + Can't you express you opinions without being obnoxious?
 
 <br/>
 
-* paised
+* poised
+  - If an object or a part of your body is poised, it is completely still but ready to move at any moment
+    + My pencil was poised over the page, ready to take down her words
+  - ready to do a particular thing at any moment
+    + The company is poised to launch its new advertising campaign
+    + The militaty forces are poised for attack
+    + The lion was poised to strike
 * prickly
+  - covered with prickles
+    + Chestnuts has burst out of their prickly green husks
+    + I find this sweater slightly prickly
+  - unfriendly and easiy offended or annoyed (informal)
+    + She was asked a couple of questions about her private life and got a little prickly
+  - complicated and difficult to deal with
+    + a prickly issue/situation
 * putrid
+  - decayed and having an unpleasant smell
+    + the putrid body of a dead fox
+    + What's the putrid smell?
+  - very unpleasant and ugly (informal)
+    + a dress in a putrid shade of yellow
 
 <br/>
 
