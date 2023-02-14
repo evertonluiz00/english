@@ -293,8 +293,19 @@ After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language
 <br/>
 
 * jittery
+  - nervous
+    + He felt all jittery before the interview
+  - shaking and slightly uncontrolled
+    + I get really jittery if I drink too much coffee
+  - anxious and worried
 * jolly
+  - happy and smiling
+    + a jolly smiles/manner/mood
+    + She's a very jolly, upbeat sort of a person
+  - feeling pleasure and happiness
 * joyous
+  - full of joy; very happy
+    + a joyous event
 
 <br/>
 
