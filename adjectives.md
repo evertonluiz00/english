@@ -394,14 +394,34 @@ After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language
 <br/>
 
 * quaint
+  - attractive because of being unusual and especially old-fashioned (typical of the past; not modern)
+    + a quaint old cottage
+  - quaint can also be used to show that you do not approve of something. especially an opinion, belief, or way of behaving, because it is strange or old-fashioned
+    + "What a quaint idea!" she said, laughing at him
 * queasy
+  - feeling that you want to vomit
+    + I started to feel queasy as soon as the boat left the harbour
+    + Just the thought of blood makes me queasy
+    + She felt queasy because of her pregnancy
+  - feeling worried, unhappy, or uncertain about something
+    + I'm queasy about giving such violent figures celebrety status
+    + Her descriptions of extreme poverty and deprivation can give you a queasy feeling
 
 <br/>
 
-* shiny
 * smoggy
+  - relating to or affected by smog (= a mixture of harmful smoke, gases. and chemicals in the air)
+    + Mexico City is one of the world's smoggiest capitals
+    + Children who live in areas taht are highly polluted and smoggy are more likely to have asthma
+    + Factories and automobiles contribute to smoggy skies over Los Angeles
 * sore
+  - painful and uncomfortable because of injury, infection, or too much use
+    + All the dust has made my eyes sore
+    + I've got a sore back
+    + My feet were sore with all the walking
 * svelte
+  - attractively thin, graceful, and stylish (not fat)
+    + Actually, all three band members are usually quite svelte
 
 <br/>
 
