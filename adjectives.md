@@ -1,5 +1,58 @@
 # Adjectives
 
+## Suffixes
+
+In English, many adjectives are formed by adding a common adjective suffix to a noun.
+
+| Noun | Adjective |
+| ---- | --------- |
+| danger | dangerous |
+| logic  | logical   |
+
+<br/>
+
+Other  adjectives are formed by adding _-ed_ or _-ing_ to a verb. These are called **participal adjectives**.
+
+| verb | Adjective |
+| ---- | --------- |
+| excite  | excited, exicting   |
+| inspire | inspired, inspiring |
+
+<br>
+
+Some adjectives have no suffixes, usually because they don't come from nouns or verbs.
+
+* common
+* big
+* small
+* hot
+* cold
+* green
+
+<br/>
+
+Here a list of common adjectives suffixes.
+
+| Suffix | Example |
+| ------ | ------- |
+| -able  | lovable |
+| -al    | logical |
+| -ant   | important |
+| -ed    | excited |
+| -ent   | independent |
+| -ful   | careful |
+| -ible  | sensible |
+| -ic    | energic |
+| -ing   | exciting |
+| -ive   | attractive |
+| -less  | careless |
+| -ous   | dangerous |
+| -y     | healthy |
+
+
+<br/>
+<br/>
+
 ## Exercises
 
 ### Sentence patterns
@@ -85,6 +138,17 @@ After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language
 9 - a _(sleeping / rectangular / cheap)_ cheap, rectangular sleeping bag. <br/>
 10 - a _(metal / square / shiny / small)_ shiny, small, square, metal vase. <br/>
 
+### Write Sentences
+#### Write sentences using the topics provided. Use two or mode adjectives in each sentence.
+
+Ex. friend : My frined is a beatiful, friendly, intelligent, young woman. <br/>
+1 - pet : _______________________________________________________________ <br/>
+2 - house :  ____________________________________________________________ <br/>
+3 - trip : _______________________________________________________________ <br/>
+4 - movie : ____________________________________________________________ <br/>
+5 - friend : ____________________________________________________________ <br/>
+
+<br/>
 <br/>
 
 ## List 
