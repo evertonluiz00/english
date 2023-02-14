@@ -426,20 +426,53 @@ After, we read _(13. adjective, difficulty)_ `___` books in _(14. noun, language
 <br/>
 
 * tame
+  - (especially of animals) not wild or dangerous, either naturally or because of training or long involvement with humans
+    + After a few months' contact the monkeys become very tame
+  - not interesting or exciting
+    + It was a tame film in comparison to some that she's made
 
 <br/>
 
 * unsightly
+  - not attractive; ugly
+    + He had undome the buttons of his shirt, exposing an unsightly expanse of white flesh
+  - not pleasant to see; unattractive
+    + The garden was full of unsightly weeds
 * uptight
+  - worried or nervous and not able to relax
+    + Don't get uptight about the exam - just do your best
+    + I was really uptight about the interview, but it went fine
 
 <br/>
 
 * wicked
+  - morally wrong and bad
+    + It was a wicked thing to do
+    + Of course, in the end, the wicked witch gets killed
+  - slightly immoral or bad for you, but in an attractive way
+    + a wicked sense of humor
+  - excelent (informal)
+    + This car is wicked!
 * wide-eyed
+  - having your eyes open much wider than usual
+    + Some wide-eyed enthusiasts attempted to pave entire streets with rubber
+  - too willing to believe and admire what you see or are told
+    + At that time, I was still a wide-eyed youngster
 * witty
-* worrisome
+  - using words in a clever and funny way
+    + a witty commet
+    + He was witty and very charming
+    + I think she's one of the wittiest comics on television
 
 <br/>
 
 * zany
+  - strange, surprising, or uncontrolled in a humorous way
+    + a zany film
+    + zany clothing/ideas
+  - surprisingly different and little strnage, and therefore amusing and interesting
+    + He was responsible for the zany Sesame Street puppet characteres loved by children worldwide
 * zealous
+  - enthusiastic and eager
+    + a zealous supporter of the government's policies
+    + He thought the reporters were too zealous in their attempts to get into the event
